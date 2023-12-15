@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TallerAndroid</string>
+    <string name="panda_name">Panda</string>
+    <string name="write_user">Ingrese Usuario</string>
+    <string name="write_password">Ingrese Password</string>
+    <string name="user">user</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="twitch_name">Twitch</string>
+    <string name="tittle">Titulo</string>
+</resources>
